@@ -1,8 +1,8 @@
-# Student Feedback System (Flask + SQLite)
+Student Feedback System (Flask + SQLite)
 
 A simple web application for collecting and viewing student feedback.
 
-## Features
+Features
 
 - Student can submit feedback with name, course, rating, and comments.
 - Admin login to view all feedbacks.
@@ -10,12 +10,8 @@ A simple web application for collecting and viewing student feedback.
 - SQLite database for data storage.
 - Easy to deploy and run locally.
 
-## Tech Stack
+ Tech Stack
 
 - Python Flask
 - SQLite
 - HTML + CSS
-
-## How to Run
-
-1. Install Flask:
